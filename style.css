@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+*
+{
+    margin: 0px;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Fira Sans', sans-serif;
+
+}
+
+.head
+{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sec
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2rem;
+}
+body{
+    
+    color: white;
+    background: url("./rrrr.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+
+.abc
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form
+{
+    padding: 30px;
+    outline: 3px solid #8a8a8a;
+}
+
